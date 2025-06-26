@@ -1,6 +1,6 @@
 {
   "name": "strict-url-sanitise",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "Strict URL sanitization with security-focused validation",
   "type": "module",
   "main": "./dist/index.js",
@@ -29,6 +29,7 @@
     "validation"
   ],
   "author": "Glen Maddern <glen@glenmaddern.com>",
+  "repository": "https://github.com/geelen/strict-url-sanitise",
   "license": "MIT",
   "devDependencies": {
     "tsup": "^8.0.0",
